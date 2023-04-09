@@ -1,4 +1,4 @@
-# arqam
+# Arqam GitHub repo
 Just a public repo for test
 # C++ blogs
 Some C++ related blogs are present in CPP folder
